@@ -8,7 +8,7 @@
 
 - I really hope you get a nice-ass paying job out of all of this! If you don't, it's okay. I did this interview process **three** *goddamn* years in a row, and didn't get a single FAANG/top tech internship out of it. Failure is never easy, and it hit me really hard that I wasn't "good enough" for Google or Microsoft. like *really hard*. I questioned my self-worth constantly (which, is ridiculous in hindsight, because the proportion of population even with the chance to interview at Microsoft is **microscopic** (lol), and these companies are so notoriously selective they've made movies about it)
 
-  In the meantime, I did UNPAID work at a very old company, participated in Karlie Kloss's coding bootcamp, interned at another unknown startup, and volunteered by teaching computer science in Palestine. Now that I'm actually working at Microsoft, I'm so fucking grateful that I had those experiences, because how boring of a person would I be without them? 
+  In the meantime, I did UNPAID work at a very old company, participated in Karlie Kloss's coding bootcamp, interned at another unknown startup, and volunteered by teaching computer science in Palestine. Now that I'm actually working at Microsoft, I'm grateful that I had those experiences, because how boring of a person would I be without them? 
 
   *There's a larger conversation to have about the "inherent" worth we assign to these companies, and questioning if our work is actually proportional to the satisfaction we receive working there....but I'll leave that to you to dwell on.*
 
@@ -35,7 +35,6 @@ First, [ProductHired's Open Product Management repo](https://github.com/ProductH
 Second, [The Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/introduction) does a great job explaining the logistics from start to end of the actual interview (along with providing helpful resources on algorithms, etc.) **I'm not going to explain the actual interview process, and this link does it much better than I could ever. Please refer to as necessary.**
 
 - [Getting a gig](https://github.com/cassidoo/getting-a-gig) -- great overview with real advice on "the search"
-
 - [Guide for getting a gig in product management as a tech major.](https://github.com/msmanek/getting-a-gig-pm-edition)
 - [Product Management Resources for new and aspiring product managers – Build your product management chops!](https://unicornresources.wordpress.com/)
 - [Good PM/Bad PM](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/)
@@ -55,9 +54,7 @@ There are a bajillion lists of all the PM programs floating around the internet,
 
 - (https://apmlist.com/
 - (https://www.productalliance.com/internship-list)
-
 - (https://collegeproductmanager.com/pm-jobs/)
-
 - [random list from Reddit](https://docs.google.com/spreadsheets/d/1ZmDio9v-x8nWUDNGCNfpiCOtWjqn41fAFiKWX0SqNfI/edit#gid=39989556)
 
 The aggressive candidate will apply to as many companies on those lists as she can, which is totally fine. But honestly, I found myself applying to companies I never actually wanted to work at. Personally, I wanted to pick a dozen or so from the list, and dedicate my time to making myself a kickass application to get that interview. 
@@ -66,7 +63,7 @@ The aggressive candidate will apply to as many companies on those lists as she c
 
 - to add: screenshot of spreadsheet
 
-**(In my experience) the most important factor in getting your foot in the door is a referral**. This often leaves people resorting to DMing every employee on Linkedin and blind-messaging former high school classmates at Google on Facebook (guilty); really, this should be a much more thought-out process that starts MONTHS/YEARS before your application. It means getting involved in your local ACM/IEEE/flavor of tech organization of your choice; attending company events and getting to know your recruiter; networking the shit out of yourself. *I know it's fucking exhausting and terrible and you would rather spend your time actually having fun*, but it makes the referral process a lot less painful when you know people have your back. I made a ton of friends during my time working with UCLA ACM, *and* it so happens that many of those people are now at top tech companies that are generous with their referrals if I want them. I'm not telling you to farm friends for referrals, but do what you gotta do (in a non-sociopathic way).
+**(In my experience) the most important factor in getting your foot in the door is a referral**. This often leaves people resorting to DMing every employee on Linkedin and blind-messaging former high school classmates at Google on Facebook (guilty); really, this should be a much more thought-out process that starts MONTHS/YEARS before your application. It means getting involved in your local ACM/IEEE/flavor of tech organization of your choice; attending company events and getting to know your recruiter; networking the shit out of yourself. *I know it's  exhausting and terrible and you would rather spend your time actually having fun*, but it makes the referral process a lot less painful when you know people have your back. I made a lot of friends during my time working with UCLA ACM, *and* it so happens that many of those people are now at top tech companies that are generous with their referrals if I want them. I'm not telling you to farm friends for referrals, but do what you gotta do (in a non-sociopathic way).
 
 * Of course, a referral is not a guarantee. Sometimes it is just putting your name in a smaller (still gigantic) database of applications, not to be confused with the absolutely endless database of non-referred applications. But having someone vouch for you can be a good indicator.
 
@@ -159,7 +156,8 @@ I split these questions into two categories: "soft"--explaining your understandi
 - [Google Product Manager Interview: What to Expect and How to Prepare – InterviewSteps](https://interviewsteps.com/blogs/news/google-product-manager-interview-what-to-expect-and-how-to-prepare)
 - [The Google Squeeze – Stratechery by Ben Thompson](https://stratechery.com/2019/the-google-squeeze/)
 - [30-Day Google Product Manager Interview Prep Guide | Impact Interview](https://www.impactinterview.com/2018/06/30-day-google-product-manager-interview-prep-guide/)
-- **Facebook**
+
+**Facebook**
 
 - [Facebook Product Manager Interview Questions | Glassdoor](https://www.glassdoor.com/Interview/Facebook-Product-Manager-Interview-Questions-EI_IE40772.0,8_KO9,24.htm)
 - [Facebook RPM Program: From Prep to Offer - Jewel Lim - Medium](https://medium.com/@jewellim/facebook-rpm-program-from-prep-to-offer-2d1be3772db8)
