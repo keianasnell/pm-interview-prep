@@ -61,7 +61,7 @@ The aggressive candidate will apply to as many companies on those lists as she c
 
 *I suggest making your own excel spreadsheet to track your interviews--where you are in the process for each company, if you have any referrals, any deadlines you need to make, etc. Current candidates ask me all the time for when they should expect to hear back from company X; I can give them my personal experience based on the dates from my spreadsheet.*
 
-![Job search xslx](/Users/keianarei/Desktop/pm-interview-prep/Job search xslx.png)
+![Job search xslx](https://github.com/keianasnell/pm-interview-prep/blob/master/Job%20search%20xslx.png)
 
 
 
