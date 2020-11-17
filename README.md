@@ -1,4 +1,4 @@
-# Keiana's guide to (not fucking up) the product management interview
+# Keiana's guide to surviving the product management interview
 
 *After one too many people sliding into my Linkedin DMs to get insight (aka referrals) into the PM role, I finally took the time to compile all of the resources I used during my interview process (aka three years of bookmarked links). This absolute shitstorm (sprinkled with some personal anecdotes and advice) of a document is the result. I'm very glad I don't have to do this again anytime soon; I hope it gets you through it too.*
 
@@ -14,7 +14,7 @@
 
 - **PLEASE** make sure to take care of yourself. There's a toxic culture of overworking that surrounds this process, and it often turns into a competition of whose slept the least or applied to the most companies (see next point). At the end of the day, it's just a job. Get some sleep. Eat balanced and regular meals. Go get some exercise. Hang out with your friends once in a while. Make sure you have someone you can talk to if you're so stressed out. Make sure not *all* of your conversations are about tech. (God I sound like a mom, or even worse, Jordan Peterson.)
 
-- *Please* don't spend too much time lurking /r/cscareerquestions or teamblind; the people who post on these sites are a very absurd extrapolation of the population of candidates, and it will not take very long for you to feel defeated or exhausted by the seemingly endless stream of comparing hours of Leetcode or negotiating $120k vs. $130k MSFT vs Google. use these resources as necessary, but reminder that these people are NOT you and do not have the same experience as you do. <u>chill out.</u>
+- *Please* don't spend too much time lurking /r/cscareerquestions or teamblind; the people who post on these sites are a very absurd extrapolation of the population of candidates, and it will not take very long for you to feel defeated or exhausted by the seemingly endless stream of comparing hours of Leetcode or negotiating \$120k vs. $130k MSFT vs Google. use these resources as necessary, but reminder that these people are NOT you and do not have the same experience as you do. <u>chill out.</u>
 
 - It should be obvious, but this is my personal experience with the interview process. I've disassociated enough to be able to write this guide in hindsight, but my experience in interviewing will definitely not be the same as yours. You might not even have the same goals as I did when I was sociopathically grinding to appear palatable to Big Tech! That's okay! The important thing is you can learn something from this. Saying that, please don't find me on social media and spam me with hate mail that you didn't. thanks!
 
@@ -61,7 +61,9 @@ The aggressive candidate will apply to as many companies on those lists as she c
 
 *I suggest making your own excel spreadsheet to track your interviews--where you are in the process for each company, if you have any referrals, any deadlines you need to make, etc. Current candidates ask me all the time for when they should expect to hear back from company X; I can give them my personal experience based on the dates from my spreadsheet.*
 
-- to add: screenshot of spreadsheet
+![Job search xslx](/Users/keianarei/Desktop/pm-interview-prep/Job search xslx.png)
+
+
 
 **(In my experience) the most important factor in getting your foot in the door is a referral**. This often leaves people resorting to DMing every employee on Linkedin and blind-messaging former high school classmates at Google on Facebook (guilty); really, this should be a much more thought-out process that starts MONTHS/YEARS before your application. It means getting involved in your local ACM/IEEE/flavor of tech organization of your choice; attending company events and getting to know your recruiter; networking the shit out of yourself. *I know it's  exhausting and terrible and you would rather spend your time actually having fun*, but it makes the referral process a lot less painful when you know people have your back. I made a lot of friends during my time working with UCLA ACM, *and* it so happens that many of those people are now at top tech companies that are generous with their referrals if I want them. I'm not telling you to farm friends for referrals, but do what you gotta do (in a non-sociopathic way).
 
@@ -73,33 +75,180 @@ The aggressive candidate will apply to as many companies on those lists as she c
 
 ### Actual interview preparation
 
+You can use this (totally didn't have these questions in a real interview *wink) [sample interview walkthrough](https://github.com/keianasnell/pm-interview-prep/blob/master/Sample-interview-walkthrough.md) as an example for interviews. I find the way I answered the design question in that document to be the successful way I could consistently drum up answers for product designs.
+
 #### Topic-specific links
 
 **Behavioral/personality related**
 
 *Tell me about yourself* are the four words I'm tired of hearing from both first dates and interviewers, but you gotta do what you gotta do. The behavioral part is the chance at a great first impression; my advice is **don't be a robot** and actually have a conversation with the person on the other side of the table/phone screen. They're also a human being (hopefully they act like one in the interview!)
 
+
+
+*What companies are looking for:*
+
+- **Metacognition about coding**. Do you think about how to code well?
+
+- **Ownership/leadership**. Do you see your work through to completion? Do you fix things that aren't quite right, even if you don't have to?
+
+- **Communication**. Would chatting with you about a technical problem be useful or painful?
+
+- **Nerd out about stuff***. Show you're proud of what you've done, you're amped about what they're doing, and you have opinions about languages and workflows.* 
+  - example of an interesting technical problem you solved
+  - example of an interpersonal conflict you overcame
+  - example of leadership or ownership 
+  - story about what you should have done differently in a past project
+  - piece of trivia about your favorite language, and something you do, don't like about the languages
+    - *What makes {language} different from others?*
+    - *If you could change something about {language}, what would it be?*     
+  - question about the company's product/business 
+  - question about the company's engineering strategy (testing, Scrum, etc)
+
+
+
 *Be able to explain your resume to your interviewer*. Tell them what you're involved in, what you're passionate about, how that passion has translated into action you've taken in projects/hackathons/volunteering/etc. (that means not adding bullshit bullet points and fluff to make it look like a complete one page). I've heard that certain companies like certain aspects of a candidate's resume: for example, Microsoft looks for teaching/volunteering experience; Facebook looks for hackathon or individual project experience; Google looks for experience with startups or projects developing actually serious products. Use this to tailor your resume as needed (or as motivation to get involved in something).
 
 [23 Most Common Interview Questions and Answers in 2017 | Internships.com](http://www.internships.com/student/resources/interview/prep/faq)
+
+- *“Describe a challenging situation/project that you’ve been involved in.”*
+
+- *“How would you describe your leadership style?”*
+
+- *“How do you deal with failure/challenges? Give an example.”*
+
+-  *“What is your biggest weakness?”*
+
+- *“How do you resolve conflict? Give an example.”*
+
+- *“Why do you want to work at  \____?”*
+
+- *“Where do you see yourself in your career 5/10 years from now?*
+
+- *“Why should we hire you?”*
+
+- *“What do you like to do in your spare time?”*
+
+- *Who is the hardest person you ever worked with? What made the relationship difficult? How did you address that situation? If I called them up today, what would they say about your time together?*
+
+  
 
 **Product questions**
 
 I split these questions into two categories: "soft"--explaining your understanding of product management/design/etc., providing examples-- and "hard"--designing products from prompts, critiquing your process. Interviewers often start with a "soft" question for a few minutes, then dedicate the majority of the interview to solving one (or several) "hard" questions. Make sure to be well versed in both.
 
 - *soft*
+  - *“What’s a product you love and how would you improve it?”*
+
+    The Favorite Product Question: You should never come to a PM interview without having a favorite mobile app, FMCG, company product, etc. For all of your favorite products, you should prepare answers to questions such as: 
+
+    - What needs does it solve?
+    - Why do people love it?
+    - Why do you like it over alternatives?
+    - How would you improve it?
+
+    Most importantly, you need to show insight. You need to think of the product as a PM and be able to demonstrate that to your interviewer.Bring competitors, users, and improvements into your answer to show that you understand how the product is successful and that you have insights on how to improve it.
+
+  - "*Can you give an example of an unsuccessful product? Why do you think it was unsuccessful?*"
+
+  - *“Critique a product's design.”*
+
+    - define what each product does
+
+    - who is the user
+
+    - go over key design principles -- which principles does it fulfill, or miss?
+
+      - ##### Key design principles
+
+        1. **Usefulness.** The product is useful if it solves the problem it purports to solve.
+        2. **Understandability.** The product is easy to use and is intuitive.
+        3. **Efficiency.** The product solves a problem efficiently or minimizes work for the user.
+        4. **User experience.** The product delights the user.
+        5. **Communication.** The product provides the necessary feedback to a user to dispel confusion or avoid mistakes.
+
+    - improve: how to fix the missed principles
+
+  - "*What would you track after a launch to make sure it is successful?* "
+
+    - product metrics:
+      1. user **A**cquisition
+      2. **A**ctivation
+      3. conversion and **R**etention
+      4. **M**oney
+
+  <u>More resources:</u>
+
   - [Why Spotify is one of my favorite products – Ryan Joseph Hill – Medium](https://medium.com/@RyanJosephHill/why-spotify-is-one-of-my-favorite-products-93fa4dff850a)
   - [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
+
 - *hard*
+
+  - *Design a bookcase for children*.
+  - *How would you design an oven for people in a wheelchair?*
+  - *Google maps is launching a version for schools. how would you design this?*
+  - *How would you design a neighborhood park?*
+  - *What would you change about a supermarket to make it better for college students?*
+  - *Design a portal or interactive landing page to replace google.com (or bing.com)*
+  - *How would you design a social/career networking website for entrepeneurs?*
+  - *Pick a target user who you don't feel is well served by Amazon.com. How would you redesign Amazon.com to appeal to them?*
+  - *How would you design a kitchen for a blind person? Handicapped?*
+  - *There is a projector that can project images all 4 walls in the room and it is able to recognize gestures. Design an application that can benefit from this.*
+  - *Design a smart watch.*
+  - *Design an interactive interface inside a taxi.*
+  - *Design a coffee maker.*
+  - *How would you design a beverage machine application?*  
+  - *Design a smart TV*.
+  - *Design a steak house iPad menu*.
+  - *Design the Google docs notification system for doc comments.*
+  - *Design a better phone alarm clock app.*
+  - *How would you design a vending machine for a blind person?*
+  - *How would you design a 3 button remote for a TV?*
+  - *How would you redesign or change a rechargeable portable battery?*
+  - *Design a video thumbnail picture selector.*
+
+  <u>More resources:</u>
+
   - [Intro to the CIRCLES Method™ Product Design Framework | Impact Interview](https://www.impactinterview.com/2016/06/circles-method-product-design-framework/) -- was the most effective way to answer product design questions. Fully comprehending this method and practicing it enough was critical for me.
+
   - [The PM Interview - practice product manager interview questions](https://thepminterview.com/index.html)
+
   - [Practice For Product Interviews](https://www.productinterview.xyz/)
+
   - [StellarPeers | PM QUESTIONS](https://stellarpeers.com/practice-questions/)
+    
     - also accessible from [the StellarPeers Medium page](https://medium.com/stellarpeers)
+    
+  - I’d also recommend using the following frameworks when tackling follow-up questions:
+
+    - ROI estimation
+
+      - For interview questions around evaluating or comparing tradeoffs between different features or decisions, the Facebook interviewer wants to see that your decision is grounded in data. And that inevitably means evaluating the net benefit to the company. Now that Facebook is a profit-making, publicly-traded company — net benefit and even user engagement — can be measured in terms of revenues and costs.
+
+        For your different feature choices, calculate the ROI impact of your various options. You can also evaluate the options qualitatively by drawing up a pros and cons list. However, a qualitative comparison is rarely sufficient at the Facebook PM interview.
+
+        If you're not comfortable generating your own revenue estimates, [grab this workbook and practice developing estimates from Chapter 4](http://amzn.to/1z0qR2t).
+
+    - AARM Method
+
+      - AARM Method stands for four sets of metrics: acquisition, activation, retention, and monetization. It’s a handy metrics checklist when answering questions about appropriate goals and metrics to track as a product manager. For more details on the AARM Method, refer to *Decode and Conquer: Answers to Product Management Interviews*.
+
+    - Root cause analysis
+
+      - When asked to identify the cause of a WAU drop in the Facebook iPhone app, brainstorm, as best (and quickly) as possible, all the potential causes. Then systematically investigate and rule out each cause to get the root issue.
+      - A [fishbone diagram](http://en.wikipedia.org/wiki/Ishikawa_diagram) may help organize your thoughts, brainstorm a more complete list, and impress the interviewer with your visual communication skills.
+
+      
+
 
 **Coding problems**
 
 *Personal note:* honestly, I didn't focus too much on grinding in Leetcode for my interviews, and I never really got serious whiteboard questions during any of my PM-specific interviews. Be my guest to spend your time doing this, but I would make sure you have a solid grasp on the fundamentals, then focus more of your time on product-style q's.
+
+- *What is the most efficient way to add an element to a circularly indexed array?*  
+- *Implement a function that returns a boolean of whether two rectangles overlap.*  
+- *Implement a function that returns whether two strings are identical. One of the string can have '\*' which means 1 to infinite random characters can be in between and '#' means only one character in between. For ex: abcd vs ab#d --> true, abcd vs abcbcd --> true*
+
+<u>Resources:</u>
 
 - [five-essential-phone-screen-questions - steveyegge2](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions) -- a great breakdown on essential SWE questions
 - [Interview Cake](https://www.interviewcake.com/table-of-contents) -- I used this as a quick and effective refresher of individual topics :) 
@@ -134,6 +283,18 @@ I split these questions into two categories: "soft"--explaining your understandi
 - [How Twitter Handles 3,000 Images Per Second - High Scalability -](http://highscalability.com/blog/2016/4/20/how-twitter-handles-3000-images-per-second.html)
 - [Scalability for Dummies - Part 2: Database](https://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database)
 - [System Design Interview Questions](http://blog.gainlo.co/index.php/category/system-design-interview-questions/)
+
+**Misc. technical questions**
+
+These test less of your ability to code syntactically perfect, and more "did you learn anything in Computer Science?" You should rely on both concepts from class you refreshed on (elevator algorithms are a straight comparison of disk scheduling algorithms from Operating Systems, IMO) and common sense thinking (what would you need as a user of a parking garage?).
+
+- *Design a parking garage.*
+- *Model the monorail system at Disney World.*
+- *Design a restaurant-reservation system.*
+- *Design a hotel room-reservation system.*
+- *Design an elevator algorithm.*
+
+
 
 
 
@@ -188,13 +349,12 @@ I split these questions into two categories: "soft"--explaining your understandi
 - [Design of Everyday Things](https://d5ln38p3754yc.cloudfront.net/content_object_shared_files/294b324ed17b4cba905c4c394fd7dd6206131e90/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf?1495759279) -- Donald A. Norman (pdf)
 - [Swipe to Unlock](https://www.amazon.com/Swipe-Unlock-Insiders-Business-Strategy/dp/1976182190/ref=pd_sim_14_3?_encoding=UTF8&pd_rd_i=1976182190&pd_rd_r=2YBPQEKX19KS216N9YAE&pd_rd_w=y6Yao&pd_rd_wg=spasy&psc=1&refRID=2YBPQEKX19KS216N9YAE) -- Parth Detroja et al.
   - [here's a glimpse](https://github.com/SwipeToUnlockBook/swipetounlockbook.github.io/blob/master/assets/pdf/sample.pdf) into the book without paying ;) (pdf)
+- [In the Plex](https://www.mondotheque.be/wiki/images/2/2b/Levy_Steve_In_The_Plex.pdf)-- Steve Levy (pdf)
 - [Decode and Conquer](https://www.amazon.com/Decode-Conquer-Answers-Management-Interviews/dp/0615930417) -- Lewis Lin
 - [The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874/ref=sr_1_1?s=books&ie=UTF8&qid=1505419110&sr=1-1&keywords=the+lean+product+playbook) -- Dan Olsen
 - [The Right It](https://www.amazon.com/Right-Many-Ideas-Yours-Succeed/dp/0062884654)-- Alberto Savoia
 - [Hit Refresh](https://news.microsoft.com/hitrefresh/) -- Satya Nadella
 - [Reprogramming the American Dream](https://www.amazon.com/Reprogramming-American-Dream-America-Valley_Making/dp/0062879871) -- Kevin Scott
-
-
 
 
 
@@ -210,6 +370,3 @@ I split these questions into two categories: "soft"--explaining your understandi
 ##### *to add later:*
 
 - pictures of notes from Passion Planner of PM prep
-- snippets of questions I've gotten from different companies
-- 
-
