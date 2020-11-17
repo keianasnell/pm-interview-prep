@@ -18,6 +18,7 @@
 
 - It should be obvious, but this is my personal experience with the interview process. I've disassociated enough to be able to write this guide in hindsight, but my experience in interviewing will definitely not be the same as yours. You might not even have the same goals as I did when I was sociopathically grinding to appear palatable to Big Tech! That's okay! The important thing is you can learn something from this. Saying that, please don't find me on social media and spam me with hate mail that you didn't. thanks!
 
+<p>&nbsp;</p>
 
 
 ### Introduction
@@ -69,7 +70,7 @@ The aggressive candidate will apply to as many companies on those lists as she c
 
 * Of course, a referral is not a guarantee. Sometimes it is just putting your name in a smaller (still gigantic) database of applications, not to be confused with the absolutely endless database of non-referred applications. But having someone vouch for you can be a good indicator.
 
-
+<p>&nbsp;</p>
 
 
 
@@ -111,23 +112,14 @@ You can use this (totally didn't have these questions in a real interview *wink)
 [23 Most Common Interview Questions and Answers in 2017 | Internships.com](http://www.internships.com/student/resources/interview/prep/faq)
 
 - *“Describe a challenging situation/project that you’ve been involved in.”*
-
 - *“How would you describe your leadership style?”*
-
 - *“How do you deal with failure/challenges? Give an example.”*
-
 -  *“What is your biggest weakness?”*
-
 - *“How do you resolve conflict? Give an example.”*
-
 - *“Why do you want to work at  \____?”*
-
 - *“Where do you see yourself in your career 5/10 years from now?*
-
 - *“Why should we hire you?”*
-
 - *“What do you like to do in your spare time?”*
-
 - *Who is the hardest person you ever worked with? What made the relationship difficult? How did you address that situation? If I called them up today, what would they say about your time together?*
 
   
@@ -292,12 +284,9 @@ These test less of your ability to code syntactically perfect, and more "did you
 - *Model the monorail system at Disney World.*
 - *Design a restaurant-reservation system.*
 - *Design a hotel room-reservation system.*
-- *Design an elevator algorithm.*
+- *Design an elevator algorithm.*  
 
-
-
-
-
+<p>&nbsp;</p>
 
 
 ### Before the actual interview(s)
