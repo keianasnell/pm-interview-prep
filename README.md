@@ -266,7 +266,7 @@ I split these questions into two categories: "soft"--explaining your understandi
 - [Interview: System/API design - Stack Overflow](https://stackoverflow.com/questions/14061381/interview-system-api-design)
 - [What is an API and how do you design it? - YouTube](https://www.youtube.com/watch?v=_YlYuNMTCc8)
 - [Top 50+ Web API Testing Interview Questions (Ultimate list for 2019)](https://www.katalon.com/resources-center/blog/web-api-testing-interview-questions/)
-- [System design prep](https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR)
+- [System design prep](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/designing-a-url-shortening-service-like-tinyurl)
 - [What is Load Balancing? - YouTube](https://www.youtube.com/watch?v=K0Ta65OqQkY&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&index=3) -- helpful playlist of videos
 - [Netflix: What Happens When You Press Play? - High Scalability -](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
 - [Google Architecture - High Scalability -](http://highscalability.com/google-architecture)
